@@ -1,0 +1,32 @@
+{
+  "booking": [
+    {
+      "id": 6100,
+      "hotel_name": "Hometel Chandigarh",
+      "name": "Raj Kishor",
+      "phone": "94312586974",
+      "cost": "2419"
+    },
+    {
+      "id": 62689,
+      "hotel_name": "Rodas - An Ecotel Hotel",
+      "name": "Amit Kumar Singh",
+      "phone": "8368958394",
+      "cost": "4254"
+    },
+    {
+      "id": 11092,
+      "hotel_name": "Snow Bliss",
+      "name": "Manish Kumar",
+      "phone": "9387643576",
+      "cost": "2704"
+    },
+    {
+      "id": 39841,
+      "hotel_name": "DoubleTree by Hilton",
+      "name": "David Karan",
+      "phone": "8895342123",
+      "cost": "2419"
+    }
+  ]
+}
